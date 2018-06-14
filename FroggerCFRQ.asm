@@ -12,6 +12,14 @@
 #	Comer mosca --> 15 pts
 #	Llegar a un goal --> 60 pts
 #
+#   BitMap Display
+#		UnitWidth = 16
+#		UnitHeight = 16
+#		DisplatWidth = 256
+#		DisplatHeight = 256
+#		BaseAdress = 0x10000000 GlobalData
+#
+#
 
 .data
 tiempo: .word 0
